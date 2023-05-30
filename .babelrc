@@ -1,9 +1,9 @@
 {
     "presets": [
         [
-            "minfy",{
+            "minify",{
                 "builtIns" : false,
-                "evalue" : false, 
+                "evaluate" : false, 
                 "mangle" : false
 
             }
